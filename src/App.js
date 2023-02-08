@@ -1,7 +1,9 @@
+import sample from "./components/sample";
+
 function App() {
   return (
     <>
-    APP COMPONENT
+    
     </>
   );
 }
