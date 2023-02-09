@@ -1,0 +1,26 @@
+
+.countrydetails {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 20px;
+  cursor: pointer;
+
+  h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+
+  .detailsInfo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+}
+
+.countrydetails:nth-child(2n + 2) {
+  background-color: #ea4a88;
+}

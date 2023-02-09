@@ -54,13 +54,13 @@ const Home = () => {
     <div className="home-container">
       <div className="nav-status">
         <div className="nav-left">
-          <FiChevronLeft className="statusIcon" />
+          <FiChevronLeft className="status-icon" />
           2022
         </div>
         <div className="nav-title">Most populate</div>
         <div className="nav-right">
-          <BiMicrophone className="statusIcon" />
-          <BsGearWide className="statusIcon" />
+          <BiMicrophone className="status-icon" />
+          <BsGearWide className="status-icon" />
         </div>
       </div>
       <div className="head">
