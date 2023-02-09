@@ -3,7 +3,7 @@
 
 <a name="readme-top"></a>
 
-- [📖 Capstone ](#-Capstone-)
+- [📖 Asia-population ](#-Capstone-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -73,7 +73,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Itswali/Capstone.git .
+  git clone https://github.com/Itswali/Asia-population.git .
 ```
 
 
