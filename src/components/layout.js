@@ -9,14 +9,6 @@ export default function Page() {
         <Link to="/" > Back</Link></div>
       <div classname="layout-2">Page  {id} 
         <Link to="/" > Back</Link></div>
-      <div classname="layout-3">Page  {id}
-        <Link to="/" > Back</Link></div>
-      <div classname="layout-4">Page  {id} 
-        <Link to="/" > Back</Link></div>
-      <div classname="layout-5">Page  {id} 
-        <Link to="/" > Back</Link></div>
-      <div classname="layout-6">Page  {id} 
-        <Link to="/" > Back</Link></div>
 
     </div>
 
