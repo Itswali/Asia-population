@@ -1,0 +1,14 @@
+@import url(./_Home.scss);
+@import url(./_Detail.scss);
+
+* {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.loading {
+  color: black;
+}
