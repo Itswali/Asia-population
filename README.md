@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Capstone <a name="about-project"></a>
+# 📖 Asia-population <a name="about-project"></a>
 
 **Asia-population** is a single-page website where users can view top 10 countries in Asia and can see top 10  countries  population graph from 1970-2023.
 
