@@ -1,22 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
-import Home from './components/Home';
-import Page from './components/layout';
-import axios from 'axios';
-
-
-function App() {
-  return (
-    <> 
-      <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/books">
-        <Route path=":id" element={<Page />} />
-        <Route index element={<Home />} />
-      </Route>
-      </Routes>
-    </>
-  );
-}
+import axios from "axios";
 
 const options = {
   method: 'GET',
@@ -34,9 +16,3 @@ axios.request(options).then(function (response) {
 }).catch(function (error) {
 	console.error(error);
 });
-
-
-
-
-
-export default App;
