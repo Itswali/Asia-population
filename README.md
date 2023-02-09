@@ -24,7 +24,7 @@
 
 # 📖 Capstone <a name="about-project"></a>
 
-**Capstone** is a single-page website where users can .......
+**Asia-population** is a single-page website where users can view top 10 countries in Asia and can see top 10  countries  population graph from 1970-2023.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,11 +41,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **........**
-  **........**
-  **........**
+- **User can see total RealTime population of Asia region**
+  **User can view top 10 countries of asia region as well as their population**
+  **User can also see each country population graph from 1970-2023**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,9 +131,9 @@ To to build for the production, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **............**
-- [ ] **............**
-- [ ] **............**
+- [ ] **User can search country by code**
+- [ ] **User can compare country by population**
+- [ ] **User can see population increase ration of countries**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
