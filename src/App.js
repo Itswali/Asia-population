@@ -1,42 +1,24 @@
-import { Route, Routes } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
+import { useEffect } from 'react';
+import { useDispatch } from 'react-redux';
 import Home from './components/Home';
-import Page from './components/layout';
-import axios from 'axios';
-
+import Details from './components/Details';
+import { fetchCountries } from './redux/API';
 
 function App() {
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(fetchCountries());
+  }, [dispatch]);
+
   return (
-    <> 
+    <div className="App">
       <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/books">
-        <Route path=":id" element={<Page />} />
-        <Route index element={<Home />} />
-      </Route>
+        <Route path="/" element={<Home />} />
+        <Route path="/country" element={<Details />} />
       </Routes>
-    </>
+    </div>
   );
 }
-
-const options = {
-  method: 'GET',
-  url: 'https://world-population3.p.rapidapi.com/continents/ASIA',
-  params: {rank:1},
-  headers: {
-    'X-RapidAPI-Key': '433ce13791mshdb40fb24f61a72ap1be8e4jsn380659aafd36',
-    'X-RapidAPI-Host': 'world-population3.p.rapidapi.com'
-  }
-};
-
-axios.request(options).then(function (response) {
-  const filteredData = response.data.slice(0, 6);
-	console.log(filteredData);
-}).catch(function (error) {
-	console.error(error);
-});
-
-
-
-
 
 export default App;
