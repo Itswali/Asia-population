@@ -24,3 +24,27 @@ export const fetchCountries = createAsyncThunk(
   },
 );
 
+const countriesSlice = createSlice({
+  name: 'countries',
+  initialState,
+
+  reducers: {
+    setSelectedCountry: (state, action) => {
+      const updatedState = { ...state, selectedCountry: action.payload };
+      return updatedState;
+    },
+  },
+  extraReducers: (builder) => {
+    builder.addCase(fetchCountries.fulfilled, (state, action) => {
+      const updatedState = {
+        ...state,
+        countries: [...action.payload].slice(0, 10),
+      };
+      return updatedState;
+    });
+  },
+});
+
+export const { setSelectedCountry } = countriesSlice.actions;
+
+export default countriesSlice.reducer;
