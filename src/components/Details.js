@@ -36,7 +36,7 @@ const Details = () => {
           <strong>
             {country['2022 Population']}
             {' '}
-            inhabitants
+            population
           </strong>
         </div>
       </div>
