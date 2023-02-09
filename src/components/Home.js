@@ -12,7 +12,7 @@ import india from '../img/india.png';
 import indonesia from '../img/indonesia.png';
 import Japan from '../img/Japan.png';
 import pakistan from '../img/pakistan.png';
-import philippines from '../img/philipines.png'
+import philippines from '../img/philipines.png';
 import vietnam from '../img/vietnam.png';
 import iran from '../img/iran.png';
 import turkey from '../img/turkey.png';
