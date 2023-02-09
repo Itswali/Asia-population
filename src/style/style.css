@@ -17,3 +17,12 @@ body {
   text-align: center;
   font-size: 30px;
 }
+
+.imageContainer {
+  border: 3px solid blue;
+  width: 200px;
+}
+
+img {
+  height: 500px;
+}
