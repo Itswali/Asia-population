@@ -17,6 +17,7 @@
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
+  - [🙏 Acknowledgements](#acknowledgements)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
@@ -149,6 +150,15 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+[ Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -156,7 +166,6 @@ Feel free to check the [issues page](../../issues/).
 If you like this project then give it a star ⭐️ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- FAQ (optional) -->
 
