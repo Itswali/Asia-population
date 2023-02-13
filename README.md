@@ -3,7 +3,7 @@
 
 <a name="readme-top"></a>
 
-- [📖 Capstone ](#-Capstone-)
+- [📖 Asia-population ](#-Capstone-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -17,14 +17,15 @@
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
+  - [🙏 Acknowledgements](#acknowledgements)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Capstone <a name="about-project"></a>
+# 📖 Asia-population <a name="about-project"></a>
 
-**Capstone** is a single-page website where users can .......
+**Asia-population** is a single-page website where users can view top 10 countries in Asia and can see top 10  countries  population graph from 1970-2023.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,11 +42,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **........**
-  **........**
-  **........**
+- **User can see total RealTime population of Asia region**
+  **User can view top 10 countries of asia region as well as their population**
+  **User can also see each country population graph from 1970-2023**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,7 +52,10 @@
 
 
 ## 🛫 Launch
- ***[🌐 CLick Here to Launch 🧑‍✈️]()***
+ ***[🌐 CLick Here to Launch 🧑‍✈️](https://asia-population.onrender.com)***
+ 
+## 🛫 Video
+  ***[🌐 CLick Here to Watch Video 🧑‍✈️] (https://www.loom.com/share/99cd407a2c5a4bb89e00d6b13eb50f9d)***
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +63,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -75,7 +76,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Itswali/Capstone.git .
+  git clone https://github.com/Itswali/Asia-population.git .
 ```
 
 
@@ -133,9 +134,9 @@ To to build for the production, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **............**
-- [ ] **............**
-- [ ] **............**
+- [ ] **User can search country by code**
+- [ ] **User can compare country by population**
+- [ ] **User can see population increase ration of countries**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,6 +150,15 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+[ Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -156,7 +166,6 @@ Feel free to check the [issues page](../../issues/).
 If you like this project then give it a star ⭐️ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- FAQ (optional) -->
 
