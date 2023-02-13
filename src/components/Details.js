@@ -31,7 +31,7 @@ const Details = () => {
       </div>
       <div className="head">
         <img src={country.image} alt="Africa" />
-        <div className="infos">
+        <div className="info">
           <p>{country.Country}</p>
           <strong>
             {country['2022 Population']}
