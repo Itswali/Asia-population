@@ -50,7 +50,7 @@
 
 <!-- LIVE DEMO -->
 
-
+### Live Demo <a name="-live-demo-"></a>
 ## 🛫 Launch
  ***[🌐 CLick Here to Launch 🧑‍✈️](https://asia-population.onrender.com)***
  
@@ -167,9 +167,6 @@ If you like this project then give it a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
