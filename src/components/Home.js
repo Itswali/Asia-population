@@ -65,7 +65,7 @@ const Home = () => {
       </div>
       <div className="head">
         <img src={Asia} alt="Asia" />
-        <div className="infos">
+        <div className="info">
           <p>ASIA</p>
           <strong>
             {total}
@@ -91,7 +91,7 @@ const Home = () => {
                 <img src={country.image} alt={country.Country} />
               </div>
 
-              <div className="infos">
+              <div className="info">
                 <p>{country.Country}</p>
                 <strong>{country['2022 Population']}</strong>
               </div>
