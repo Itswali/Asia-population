@@ -81,7 +81,7 @@ Object {
             alt="Africa"
           />
           <div
-            class="infos"
+            class="info"
           >
             <p />
             <strong>
@@ -315,7 +315,7 @@ Object {
           alt="Africa"
         />
         <div
-          class="infos"
+          class="info"
         >
           <p />
           <strong>
